@@ -1,0 +1,10 @@
+C:\Users\Nino\Desktop\USB Kingston\GitHub\Saltarelle.Firebug\FirebugConsole\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Nino\Desktop\USB Kingston\GitHub\Saltarelle.Firebug\FirebugConsole\WebApplication1\bin\WebApplication1.dll
+C:\Users\Nino\Desktop\USB Kingston\GitHub\Saltarelle.Firebug\FirebugConsole\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Nino\Desktop\USB Kingston\GitHub\Saltarelle.Firebug\FirebugConsole\WebApplication1\bin\WebApplication1.js
+C:\Users\Nino\Desktop\USB Kingston\GitHub\Saltarelle.Firebug\FirebugConsole\WebApplication1\bin\mscorlib.dll
+C:\Users\Nino\Desktop\USB Kingston\GitHub\Saltarelle.Firebug\FirebugConsole\WebApplication1\bin\Saltarelle.Web.dll
+C:\Users\Nino\Desktop\USB Kingston\GitHub\Saltarelle.Firebug\FirebugConsole\WebApplication1\bin\mscorlib.xml
+C:\Users\Nino\Desktop\USB Kingston\GitHub\Saltarelle.Firebug\FirebugConsole\WebApplication1\bin\Saltarelle.Web.xml
+C:\Users\Nino\Desktop\USB Kingston\GitHub\Saltarelle.Firebug\FirebugConsole\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Nino\Desktop\USB Kingston\GitHub\Saltarelle.Firebug\FirebugConsole\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,3 +1,12 @@
+FirebugConsole/packages/
+FirebugConsole/Firebug/bin/
+FirebugConsole/Firebug/obj/
+FirebugConsole/Test/bin/
+FirebugConsole/Test/obj/
+
+
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
